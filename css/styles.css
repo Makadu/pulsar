@@ -5,3 +5,9 @@ table {
   width: 80%;
   margin: 3em auto;
 }
+h1 {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
